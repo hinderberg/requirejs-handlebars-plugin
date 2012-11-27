@@ -5,7 +5,7 @@
  */
 define(['handlebars', 'text'], function (handlebars, text) {
 
-    var DEFAULT_EXTENSION = '.html';
+    var DEFAULT_EXTENSION = '.hb';
     var _buildMap = {};
 
     function load(name, req, onLoad, config){
