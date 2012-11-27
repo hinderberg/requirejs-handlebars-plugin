@@ -44,4 +44,4 @@ Released under the MIT license.
 
 ## Inspiration
 
-This plugin is heavly inspired by the [RequireJS Hogan Plugin](https://github.com/millermedeiros/requirejs-hogan-plugin)
+This plugin is heavily inspired by the [RequireJS Hogan Plugin](https://github.com/millermedeiros/requirejs-hogan-plugin)
