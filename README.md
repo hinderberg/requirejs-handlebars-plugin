@@ -4,7 +4,7 @@ This plugin enables loading Handlebars templates dynamically during development 
 
 ## Usage
 
-Define an template like `people.html`:
+Define an template like `people.hb`:
 
 ```handlebars
 <div class="foo">
