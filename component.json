@@ -1,7 +1,7 @@
 {
   "name": "requirejs-handlebars-plugin",
   "version": "1.0.0",
-  "main": "hb.js",
+  "main": ["./hb.js", "./customHandlebars.js"],
   "ignore": [
     "**/.*",
     "node_modules",
