@@ -8,7 +8,7 @@
     "libraries"
   ],
   "dependencies": {
-	"text": "2.0.6",
-	"requirejs": "2.1.5"
+	"text": "~2.0.6",
+	"requirejs": "~2.1.5"
   }
 }
